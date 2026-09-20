@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# After publishing, replace the sitemap URL below with your real GitHub Pages URL.
-Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
