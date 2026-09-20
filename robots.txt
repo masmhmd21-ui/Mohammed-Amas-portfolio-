@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://masmhmd21-ui.github.io/Mohammed-Amas-portfolio-/sitemap.xml
